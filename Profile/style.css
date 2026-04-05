@@ -36,7 +36,7 @@ body {
 .profile-img {
     width: 120px;
     height: 120px;
-    border-radius: 50%;
+    border-radius:50%;
     object-fit: cover;
     object-position: center;
     border: 5px solid rgb(225, 237, 226);

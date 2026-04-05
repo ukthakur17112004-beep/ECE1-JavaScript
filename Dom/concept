@@ -1,0 +1,22 @@
+Dom is a (Document object model):=
+Define sturctures and properties.
+
+
+DOM IN JS
+
+* JavaScript can change all the HTML element in the page.
+* JavaScript can change all the HTML atributes in the page.
+* JavaScript can change all the Css  style the page.
+* JavaScript can remove existing HTML elements and atributes.
+* JavaScript can add new HTML elements and atributes.
+
+
+
+
+
+EVENTS 
+#MOUSE EVENTS
+
+
+* if we are using java script under the html we have to use curly braces "{}".
+
