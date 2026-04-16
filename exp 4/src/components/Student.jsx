@@ -4,9 +4,8 @@ function Student() {
   return (
     <div>
       <div className="student-card">
-        <h2>{name}</h2>
-        <p>{course}</p>
-        <p>{marks}</p>
+        <h2>{props.name}</h2>
+        
       </div>
       
     </div>

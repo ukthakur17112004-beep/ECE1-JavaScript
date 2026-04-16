@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-      <Student name ={utkarsh} course={'ECE-1'} marks={28}/>
+      <Student name = "John Doe" course = "Computer Science" marks = {85} />
     </>
   )
 }
